@@ -1,0 +1,26 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "good morning",
+        "intents": [
+          {
+            "intent": "GoodMorningIntent",
+            "samples": [
+              "say good morning",
+              "wish me good morning",
+              "good morning friend"
+            ]
+          },
+          {
+            "intent": "AMAZON.CancelIntent"
+          },
+          {
+            "intent": "AMAZON.StopIntent"
+          },
+          {
+            "intent": "AMAZON.HelpIntent"
+          }
+       ]
+    }
+  }
+}
