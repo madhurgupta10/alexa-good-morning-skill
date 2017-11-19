@@ -1,7 +1,7 @@
 "use strict";
 var Alexa = require("alexa-sdk");
 var SKILL_NAME = "Good Morning Skill";
-var APP_ID = "amzn1.ask.skill.a85d4f8b-158c-4dca-8609-e729dc291e7a";
+var APP_ID = "";
 
 var LIST = [
     "Good Morning Friend",
