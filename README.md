@@ -2,7 +2,7 @@
 _developer @madhurgupta10_
 
 # Testing
-Simply say "Alexa open Good Morning and Wish me Good Morning Friend", and alexa will respond you with good morning message.
+Simply say "Alexa open Good Morning and Wish me Good Morning Friend" and alexa will respond you with good morning message.
 
 # Example Phrases
 * _Alexa open Good Morning and Good Morning Friend_
