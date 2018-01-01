@@ -1,4 +1,4 @@
-# alexa-good-morning-skill
+# Alexa Good Morning Skill
 _developer @madhurgupta10_
 
 # Testing
